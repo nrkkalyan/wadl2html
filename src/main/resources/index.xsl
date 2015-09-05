@@ -47,12 +47,12 @@
           <xsl:value-of select="wadl:doc/@title"/>
         </title>
 
-        <link rel="stylesheet" href="{$contextPath}/css/jquery-ui.css"/>
-        <link rel="stylesheet" href="{$contextPath}/css/style.css"/>
+        <link rel="stylesheet" href="css/jquery-ui.css"/>
+        <link rel="stylesheet" href="css/style.css"/>
 
-        <script src="{$contextPath}/js/jquery.js">          
+        <script src="js/jquery.js">          
         </script>
-        <script src="{$contextPath}/js/jquery-ui.js">          
+        <script src="js/jquery-ui.js">          
         </script>
         <script>
           //<![CDATA[
